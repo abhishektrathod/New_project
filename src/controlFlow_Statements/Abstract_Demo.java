@@ -9,7 +9,7 @@ public abstract class Abstract_Demo {
 	
 	public void s2()
 	{
-		System.out.println("World");
+		System.out.println("Ram");
 	}
 	
 	public abstract void s3();
